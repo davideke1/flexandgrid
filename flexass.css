@@ -27,7 +27,7 @@ body>header>p>a{
     padding: 5px;
 }
 main {
-    width: 56%;
+    width: 750px;
     margin: auto;
     display: flex;
 	/* max-width: 100%; */
